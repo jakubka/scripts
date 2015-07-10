@@ -1,0 +1,20 @@
+New powershell:
+choco install powershell -version 4.0.20141001
+
+IIS
+
+SQL Server Management studio
+
+ASPNET_REGIIS
+aspnet_regiis -i
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_regiis.exe -i
+
+Visual Studio Code
+
+
+
+VS: 
+- resharper
+- spellcheck
+- attachto
+- layouts o rama
